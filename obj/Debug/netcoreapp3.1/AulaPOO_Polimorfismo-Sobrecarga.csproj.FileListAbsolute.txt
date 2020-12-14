@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\POO\AulaPOO_Polimorfismo-Sobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_Polimorfismo-Sobrecarga.genruntimeconfig.cache
